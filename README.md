@@ -1,9 +1,9 @@
 # Proyecto B: Sistema de Predicción de Abandono de Clientes (Churn)
 
 ## 👥 Equipo
-- **Integrante 1**: [Nombre]
-- **Integrante 2**: [Nombre]
-- **Integrante 3**: [Nombre]
+- **Integrante 1**: Claudio Poveda Sanchez 
+- **Integrante 2**: Kendall Solano Solis 
+- **Integrante 3**: Roberto Coto Guevara 
 
 ## 📋 Descripción del Proyecto
 Sistema inteligente que predice qué clientes tienen mayor probabilidad de abandonar un servicio de telecomunicaciones, permitiendo implementar estrategias de retención oportunas.
