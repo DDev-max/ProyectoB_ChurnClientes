@@ -1,0 +1,36 @@
+BAJO RIESGO:
+{
+  "gender": "Male",
+  "tenure": 60,
+  "PhoneService": "Yes",
+  "MultipleLines": "Yes",
+  "InternetService": "Fiber optic",
+  "OnlineSecurity": "Yes",
+  "OnlineBackup": "Yes",
+  "DeviceProtection": "Yes",
+  "TechSupport": "Yes",
+  "StreamingTV": "Yes",
+  "StreamingMovies": "Yes",
+  "Contract": "Two year",
+  "PaymentMethod": "Credit card (automatic)",
+  "TotalCharges": 6500.0
+}
+
+
+ALTO RIESGO:
+{
+  "gender": "Female",
+  "tenure": 1,
+  "PhoneService": "Yes",
+  "MultipleLines": "No",
+  "InternetService": "Fiber optic",
+  "OnlineSecurity": "No",
+  "OnlineBackup": "No",
+  "DeviceProtection": "No",
+  "TechSupport": "No",
+  "StreamingTV": "No",
+  "StreamingMovies": "No",
+  "Contract": "Month-to-month",
+  "PaymentMethod": "Electronic check",
+  "TotalCharges": 70.0
+}
