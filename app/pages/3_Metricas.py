@@ -9,8 +9,6 @@ from tensorflow.keras.models import load_model
 st.markdown("""
     <style>
     .stApp{
-/* https://grabient.com/HQZgbAnANMYExxmAjABhiOB2JYQy2WmABYSBWGE5fU85KEU1dYc7JMqAWlWDVYkQ+ZMBbpUQA?angle=225&steps=34 */
-
 background: linear-gradient(225deg, #273d51 0.000%, #263e57 3.030%, #24405c 6.061%, #234263 9.091%, #224469 12.121%, #21476f 15.152%, #214a76 18.182%, #214e7d 21.212%, #215284 24.242%, #21568b 27.273%, #215b91 30.303%, #226098 33.333%, #23659e 36.364%, #246aa5 39.394%, #266fab 42.424%, #2875b0 45.455%, #2a7bb6 48.485%, #2c80bb 51.515%, #2e86bf 54.545%, #318cc3 57.576%, #3392c7 60.606%, #3697ca 63.636%, #399dcd 66.667%, #3ca2cf 69.697%, #3fa7d0 72.727%, #42acd1 75.758%, #45b1d1 78.788%, #48b5d1 81.818%, #4bbad0 84.848%, #4ebdcf 87.879%, #51c1cd 90.909%, #54c4ca 93.939%, #56c7c7 96.970%, #59c9c4 100.000%);
     }
             

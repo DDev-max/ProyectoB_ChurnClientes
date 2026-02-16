@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Churn Analytics Hub",
+    page_title="Predicción de Abandono de Clientes",
     layout="wide"
 )
 
